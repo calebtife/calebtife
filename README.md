@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @calebtife
-- 👀 I’m interested in ...
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on design projects in html, css and javascript
-- 📫 How to reach me oluwafemikaleb32@gmail.com
+- 📫 How to reach me caleboluwafemi6@gmail.com
 
 <!---
 calebtife/calebtife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
