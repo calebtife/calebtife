@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @calebtife
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react 
 - 💞️ I’m looking to collaborate on design projects in html, css and javascript
 - 📫 How to reach me caleboluwafemi6@gmail.com
 
