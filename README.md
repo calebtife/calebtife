@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @calebtife
 - 👀 I’m interested in Front End Development
-- 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on design projects in html, css and javascript
+- 🌱 I’m currently building react projects with typescript.
+- 💞️ I’m looking to collaborate on design projects 
 - 📫 How to reach me caleboluwafemi6@gmail.com
 
 <!---
